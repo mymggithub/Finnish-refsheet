@@ -1,5 +1,25 @@
 # Finnish-refsheet
 
+- I - Minä
+- You - Sinä
+- He - Hän
+- She - Hän
+- It - Se
+- We - Me
+- You (Plural) - Te
+- They - He
+
+### Be
+--------
+- I am - Minä olen
+- You are - Sinä olet
+- He/She - Hän on
+- It is - Se on
+- We are - Me olemme
+- You are - Te olette
+- They are - He ovat
+
+
 ## Numbers
 
 - Yksi = One
