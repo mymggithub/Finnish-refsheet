@@ -3,34 +3,34 @@
 ## Numbers
 
 
-yksi = one
+- yksi = one
 
-kaksi = two
+- kaksi = two
 
-kolme = three
+- kolme = three
 
-neljä = four
+- neljä = four
 
-viisi = five
+- viisi = five
 
-kuusi = six
+- kuusi = six
 
-sietsemän = seven
+- sietsemän = seven
 
-kahdeksan = eight
+- kahdeksan = eight
 
-yhdeksän = nine
+- yhdeksän = nine
 
-kymmenen = ten
+- kymmenen = ten
 
-yksitoista = eleven
+- yksitoista = eleven
 
-kaksitoista = twelve
+- kaksitoista = twelve
 
-kolmetoista = thirteen
+- kolmetoista = thirteen
 
-kaksikymmentä = twenty
+- kaksikymmentä = twenty
 
-kaksikymmentäyksi = twenty one
+- kaksikymmentäyksi = twenty one
 
-kaksikymmentäkaksi = twenty two
+- kaksikymmentäkaksi = twenty two
