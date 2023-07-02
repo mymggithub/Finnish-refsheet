@@ -38,3 +38,44 @@
 - Kaksikymmentä = Twenty
 - Kaksikymmentäyksi = Twenty one
 - Kaksikymmentäkaksi = Twenty two
+
+
+--------
+
+
+minä = I
+minä olen = I am
+Terve = hey
+sinä = you
+kiitos = thank you
+sinä olet = you are
+kuka= who
+Mukava=nice
+Anteeksi=sorry
+Ja = and
+Jee = yay
+Onnea = good luck
+Tervetuloa= welcome
+No=well
+hauska=funny
+Kippis=cheers
+Ja = and
+Paljon onnea = conggrats 
+Minä olen = I am
+Anteeksi=sorry
+kuka=who
+Anteeksi=excume me
+Mies = a man
+Nainen = woman
+Aina = always
+Hän on = he is
+Lapsi = a child
+Velho = a wizard
+kaunis = beautiful
+Komea = handsom 
+todella = really
+
+
+
+ 
+
